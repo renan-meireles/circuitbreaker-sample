@@ -1,0 +1,9 @@
+/.idea
+/.gradle
+/build
+gradlew
+gradlew.bat
+bin/
+tmp/
+target/
+!gradle-wrapper.jar
